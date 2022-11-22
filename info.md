@@ -27,3 +27,5 @@
 >	git branch – посмотреть список веток в репозитории
 
 > git branch <branch_name> создание ветки с названием branch_name
+
+> git commit -am “message” – добавление файлов в отслеживание и создание коммита. git add . + git commit -m
